@@ -1,4 +1,4 @@
-# Women-Safety-System-using-HAR-and-LSTM-Networks
+# A Human Activity Recognition-Based Safety System Application
 Project Overview:
 This project extends Human Activity Recognition (HAR) to create an intelligent safety system for women. Leveraging the UCI HAR dataset for training, the system utilizes advanced deep learning techniques such as Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM) networks to detect abnormal activities. The primary goal is to monitor regular activities and identify potentially dangerous situations, such as sudden falls, erratic movements, or rapid running, which may indicate distress or danger.
 
